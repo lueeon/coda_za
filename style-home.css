@@ -1,0 +1,27 @@
+body#home{background:url(images/background.jpg) center center fixed}
+body#home #sitemap{position:absolute;top:50%;left:50%;width:960px;height:540px;margin:-280px 0 0 -480px;text-align:left}
+#maptitle{position:absolute;top:50px;left:50px}
+#maptitle a:hover{text-decoration:none}
+#mapcontent{float:right;width:55%;margin:30px 10px 0 0}
+#mapmenu{margin:30px 20px 0 0}
+#mapmenu ul{margin:0 10px 0 0;float:right;font-size:14px}
+#mapmenu ul li{float:left;display:inline;padding:5px 10px 5px 0;-webkit-transform:rotate(-40deg);-o-transform:rotate(-40deg);-moz-transform:rotate(-40deg)}
+#mapmenu ul li a:hover{text-decoration:none}
+#mappost{padding:50px 0 0 20px}
+#mappost .newposts{font-size:15px}
+#mapnavi{margin:20px 40px 10px 10px}
+/*--- table ------------*/
+div#mappost table{border-top:1px solid #26282c;margin:20px 0 0 0}
+div#mappost td{margin:0;color:#747a83;border-bottom:1px solid #26282c}
+div#mappost td.title{width:25em}
+div#mappost td.section{width:6em}
+div#mappost td.date{width:8.5em;color:#575b64;padding-right:5px}
+div#mappost td.section a,div#mappost td.date{text-align:right}
+div#mappost td.date{font:1em "Consolas","Courier New","Courier","FreeMono",monospace}
+div#mappost td a{display:block;padding:0.3em 0;text-decoration:none;color:#949ca5}
+div#mappost tr:hover{background:transparent url("images/row_gradient.png") -9.5em 0 repeat-y}
+div#mappost tr:hover td,div#mappost tr:hover td a{color:#fff}
+div#mappost td.title a{overflow:hidden}
+/*-----------mapfooter--------------*/
+#mapfooter{position:absolute;width:100%;bottom:0;margin:0 0 -30px 0}
+#mapfooter .author{float:right;padding:0 10px 0 0}
