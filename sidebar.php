@@ -30,9 +30,6 @@
 </ul>
 </div>-->
 	<?php endif;//widget 2?>
- <div class="widget hor_side">
-<ul><li><a href="http://www.weijin520.com/" target="_blank">围巾编织方法</a></li></ul>
-</div>
 <div class="widget hor_side">
 		<h3><span>功能</span></h3>
 		<ul>
