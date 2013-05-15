@@ -53,7 +53,7 @@
 			</div><!--end of mappost-->
 		</div><!--end of mapcontent-->
 		<div id="mapfooter">
-		<span class="author"><a href="http://www.weijin520.com/" target="_blank">围巾编织方法</a> | Powered by Wordpress | Copyright &copy; 2011 <?php bloginfo('name');?><sup>&reg;</sup>  | Theme Coda_Za coded By <a href="http://isayme.com">iSayme</a></span> 
+		<span class="author">Powered by Wordpress | Copyright &copy; 2011-2013 <?php bloginfo('name');?><sup>&reg;</sup>  | Theme Coda_Za coded By <a href="http://isayme.com">iSayme</a></span> 
 <!--<?php _e('页面加载: '); echo get_num_queries(), 'queries.'; ?> <?php timer_stop(1); ?> seconds.-->
 		</div><!--end of mapfooter-->
 	</div><!--end of sitemap-->
